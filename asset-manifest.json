@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap/static/css/main.bc6339f2.css",
+    "main.js": "/react-bootstrap/static/js/main.511653f2.js",
+    "static/js/787.a521b789.chunk.js": "/react-bootstrap/static/js/787.a521b789.chunk.js",
+    "static/media/header-image.jpg": "/react-bootstrap/static/media/header-image.f16c2ada8769e989244c.jpg",
+    "static/media/1.jpg": "/react-bootstrap/static/media/1.ac0a95df4b252f167b4c.jpg",
+    "static/media/5.jpg": "/react-bootstrap/static/media/5.1feb0fac0f410b5dd6d1.jpg",
+    "static/media/6.jpg": "/react-bootstrap/static/media/6.34749d5e9466ce5db914.jpg",
+    "static/media/4.jpg": "/react-bootstrap/static/media/4.1330b7719b41ddcaf883.jpg",
+    "static/media/3.jpg": "/react-bootstrap/static/media/3.19ad159d884c4a6d338a.jpg",
+    "static/media/2.jpg": "/react-bootstrap/static/media/2.6bdbe324c03774c05c26.jpg",
+    "index.html": "/react-bootstrap/index.html",
+    "main.bc6339f2.css.map": "/react-bootstrap/static/css/main.bc6339f2.css.map",
+    "main.511653f2.js.map": "/react-bootstrap/static/js/main.511653f2.js.map",
+    "787.a521b789.chunk.js.map": "/react-bootstrap/static/js/787.a521b789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6339f2.css",
+    "static/js/main.511653f2.js"
+  ]
+}
